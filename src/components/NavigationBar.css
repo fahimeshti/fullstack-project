@@ -1,0 +1,70 @@
+.nav-bar {
+    background-color: transparent;
+    color: white;
+}
+.faIcon {
+    color: #fff !important;
+    font-size: 26px;
+    cursor: pointer;
+}
+.faIcon:hover {
+    color: #eee !important;
+}
+.me-2 {
+    min-width: 50vw;
+    color: #fff !important;
+    border-radius: 1rem !important;
+    background-color: transparent !important;
+    border: 1px solid rgba(238, 238, 238, 0.637) !important;
+}
+.me-2:focus {
+    border: 1px solid #FC466B !important;
+}
+.my-toggle {
+    color: #ccc !important;
+    border: none !important;
+    outline: none;
+}
+.navLinks {
+    color: rgba(4, 17, 29, 0.75) !important;
+    font-weight: 600;
+    padding: 20px 12px !important;
+    line-height: 24px;
+    font-size: 17px;
+}
+.navLinks:hover {
+    color: #04111d !important;
+}
+.navLinks {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+}
+.navLinks .faIcon {
+    vertical-align: text-top;
+}
+.navLinks .leftCol span {
+    margin-left: 10px !important;
+}
+.faIconChev {
+    font-size: 14px;
+}
+.my-button {
+    margin: 20px 0;
+}
+.my-logo {
+    max-width: 40px;
+    color: #fff !important;
+    font-size: 28px !important;
+    font-weight: 500 !important;
+    line-height: 30px;
+    margin: 4px 0 0 10px;
+}
+.my-logo-img {
+    width: 100%;
+    margin-right: 5px;
+}
+.search {
+
+}
